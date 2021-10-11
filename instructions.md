@@ -1,7 +1,7 @@
 # <img id="top" align="center"  src="./extra/3.png" width=500>  
 # Instructions
 
-The first such test was held in 2018 and now its fourth iteration is being held in May 2021.
+The first such test was held in 2018 and now its fourth iteration is being held in October 2021.
 
 The problem set from previous years are available in this [link's](https://github.com/KamandPrompt/sysadmin-test) folder.
 
