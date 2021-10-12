@@ -77,6 +77,8 @@ https://github.com/KamandPrompt/kamandprompt.github.io
 >## Task 4 - Create a script that performs git-auto pull from a remote git repository.
  Your task is to write a script that is able to detect whether a repository has changed on a remote branch. If so, then the script must auto-pull the changes into the local repository's pre-determined branch. 
 
+<b>BONUS MARKS</b> - You need to redeploy/restart the pulled application on the local( for non-static sites this important ). You can do it for any web site involving a backend like django, flask , express etc.
+
 ### Deliverables - 
 
 * The script file.
